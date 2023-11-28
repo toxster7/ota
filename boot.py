@@ -13,9 +13,8 @@ import ugit
 
 ugit.pull_all()
 
-## ftp access
-#from ftp import ftpserver
-print("is???????????????????????")
+# ftp access
+#from ftp import ftpserve
 """def do_connect():
     sta_if = network.WLAN(network.STA_IF)
     start = utime.time()

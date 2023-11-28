@@ -8,11 +8,15 @@ import config
 import network
 import utime
 import ntptime
+import ugit
+
+
+ugit.pul_all()
 
 ## ftp access
 #from ftp import ftpserver
-
-def do_connect():
+print("is???????????????????????")
+"""def do_connect():
     sta_if = network.WLAN(network.STA_IF)
     start = utime.time()
     timed_out = False
@@ -33,5 +37,5 @@ def do_connect():
         print('network config:', sta_if.ifconfig())
     else: 
         print('internet not available')
-print("is camera working????????")
-do_connect()
+
+do_connect()""""

@@ -11,7 +11,7 @@ import ntptime
 import ugit
 
 
-ugit.pul_all()
+ugit.pull_all()
 
 ## ftp access
 #from ftp import ftpserver

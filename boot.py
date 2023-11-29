@@ -1,4 +1,4 @@
 import ugit
 
 
-ugit.pull_all()
+ugit.backup()

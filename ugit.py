@@ -1,7 +1,5 @@
 # ugit
-# micropython OTA update from github
-# Created by TURFPTAx for the openmuscle project
-# Check out https://openmuscle.org for more info
+# micropython OTA update from gitlab
 #
 # Pulls files and folders from open gitlab repository
 
